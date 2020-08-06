@@ -1,0 +1,4 @@
+config:
+  gcp:project: pulumi-demo-284214
+  gcp:zone: us-east4-c
+

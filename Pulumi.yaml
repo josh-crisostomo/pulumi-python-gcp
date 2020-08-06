@@ -1,0 +1,4 @@
+name: new-pulumi-demo
+runtime:
+  name: python
+description: A minimal Google Cloud Python Pulumi program
